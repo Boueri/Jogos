@@ -21,7 +21,7 @@ Bem-vindo(a) ao meu repositório de jogos! Aqui está uma coleção de clássico
 ### 🐍 Snake Xenzia & Snake Clássico
 *Duas versões do famoso jogo da cobrinha. O **Snake Clássico** e o **Snake Xenzia**, trazendo a nostalgia dos celulares antigos com gerenciamento de pontuação e colisão com o próprio corpo.*
 * **Destaques:** Controle de Game Loop, crescimento dinâmico da estrutura (Listas/Filas) e geração aleatória de comida.
-* **Código-fonte:** [Acessar pasta do projeto 1](https://github.com/Boueri/Jogos/tree/master/snake%20xenzia)[ Acessar pasta do projeto 2](https://github.com/Boueri/Jogos/tree/master/snake)
+* **Código-fonte:** [Acessar pasta do projeto 1](https://github.com/Boueri/Jogos/tree/master/snake%20xenzia)[/Acessar pasta do projeto 2](https://github.com/Boueri/Jogos/tree/master/snake)
 
 ### 👾 Space Invaders
 *Um jogo de tiro espacial (Shoot 'em up) onde o jogador deve defender a terra de hordas de alienígenas que descem a tela.*
