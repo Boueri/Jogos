@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao meu repositório de jogos! Aqui está uma coleção de clássicos e desafios de tabuleiro que desenvolvi **do zero e finalizei por completo** utilizando a linguagem Java. 
 
-🚀 **Gostou do que viu?** Este repositório de jogos é um dos destaques do meu trabalho. Você pode conferir minhas outras habilidades, projetos e experiências acessando o meu [Portfólio Principal](LINK_DO_SEU_PORTFOLIO_AQUI).
+🚀 **Gostou do que viu?** Este repositório de jogos é um dos destaques do meu trabalho. Você pode conferir minhas outras habilidades, projetos e experiências acessando o meu [Portfólio Principal][(LINK_DO_SEU_PORTFOLIO_AQUI)](https://app.notion.com/p/Portf-lio-Jo-o-Gabriel-Boueri-Santos-3857af439f3e803fb9d8e8455c8e55f3?source=copy_link).
 
 ---
 
