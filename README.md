@@ -49,7 +49,7 @@ Desenvolver esses jogos me permitiu dominar conceitos fundamentais que vão muit
 
 Este repositório mostra minha paixão por lógica e desenvolvimento. No meu portfólio web, você encontra soluções voltadas para outras áreas e detalhes sobre minha carreira:
 
-🔗 **[Visitar meu Portfólio Web](----)**
+🔗 **[Visitar meu Portfólio Web][(https://app.notion.com/p/Portf-lio-Jo-o-Gabriel-Boueri-Santos-3857af439f3e803fb9d8e8455c8e55f3)]**
 
 ---
 
