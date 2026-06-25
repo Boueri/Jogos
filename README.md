@@ -2,6 +2,7 @@
 
 Bem-vindo(a) ao meu repositório de jogos! Aqui está uma coleção de clássicos e desafios de tabuleiro que desenvolvi **do zero e finalizei por completo** utilizando a linguagem Java. 
 
+
 ---
 
 ## 🕹️ Jogos Desenvolvidos
@@ -32,7 +33,24 @@ Bem-vindo(a) ao meu repositório de jogos! Aqui está uma coleção de clássico
 * **Código-fonte:** [Acessar pasta do projeto](https://github.com/Boueri/Jogos/tree/master/tetris)
 
 ---
+# 📖 O que aprendi
 
+Durante o desenvolvimento deste projeto, consolidei conhecimentos importantes em desenvolvimento de software, entre eles:
+
+- ☕ Programação Orientada a Objetos (POO)
+- 🏗️ Organização e estruturação de projetos Java
+- 🧩 Modelagem de classes e objetos
+- 🔄 Encapsulamento, Herança e Polimorfismo
+- 🎨 Desenvolvimento de interfaces gráficas com Swing
+- 🖱️ Tratamento de eventos do teclado e do mouse
+- 📐 Implementação de algoritmos e lógica de programação
+- 📊 Manipulação de estruturas de dados e coleções
+- 🐞 Depuração (debug) e resolução de problemas
+- ⚡ Otimização e refatoração de código
+- 📂 Organização de recursos (imagens, sons e arquivos)
+- 🌿 Versionamento de código com Git e GitHub
+- 📖 Documentação técnica utilizando Markdown
+- 💡 Planejamento e desenvolvimento de um projeto do início ao fim
 ## 🛠️ Conceitos de Programação Aplicados
 
 Desenvolver esses jogos me permitiu dominar conceitos fundamentais que vão muito além do desenvolvimento de games:
@@ -42,116 +60,24 @@ Desenvolver esses jogos me permitiu dominar conceitos fundamentais que vão muit
 * **Game Loop & Renderização:** Controle de frames por segundo (FPS) e atualização de lógica em tempo real (Pong, Snake, Space Invaders).
 
 ---
+---
 
-## 📈 Conheça Meu Portfólio (ainda em desenvolvimento
+# 👨‍💻 Contato
 
-Este repositório mostra minha paixão por lógica e desenvolvimento. No meu portfólio web, você encontra soluções voltadas para outras áreas e detalhes sobre minha carreira:
+Se você gostou deste projeto ou deseja entrar em contato, fique à vontade!
 
-🔗 **[Visitar meu Portfólio Web](https://app.notion.com/p/Portf-lio-Jo-o-Gabriel-Boueri-Santos-3857af439f3e803fb9d8e8455c8e55f3)**
+- 💼 **LinkedIn:** <https://www.linkedin.com/in/joao-gabriel-boueri-santos-06b207196>
+- 💻 **GitHub:** <https://github.com/Boueri>
+- 🌐 **Portfólio Web:** <https://app.notion.com/p/Portf-lio-Jo-o-Gabriel-Boueri-Santos-3857af439f3e803fb9d8e8455c8e55f3>
 
 ---
 
-## ☕ Como Rodar os Projetos
+<p align="center">
 
-Certifique-se de ter o Java instalado na sua máquina (JRE/JDK).
+⭐ Se este projeto foi útil ou interessante, considere deixar uma **estrela** no repositório!
 
-1. Faça o clone do repositório ou baixe o arquivo `.jar` do jogo na pasta correspondente.
-2. Execute o arquivo através do terminal:
-```bash
-   java -jar nome-do-jogo.jar
+</p>
 
-
-# 📖 O que aprendi
-
-Este projeto me permitiu desenvolver habilidades em:
-
-- Programação Orientada a Objetos
-- Organização de código
-- Estruturação de projetos Java
-- Versionamento com Git
-- Resolução de problemas
-- Boas práticas de desenvolvimento
-
-
-
-# 📖 Sobre
-
-Este projeto foi desenvolvido em **Java** com o objetivo de praticar conceitos fundamentais de desenvolvimento de software, como Programação Orientada a Objetos, organização de código e interface gráfica.
-
-Além de funcionar corretamente, o foco foi criar um código limpo, organizado e de fácil manutenção.
-
----
-
-# 🛠 Tecnologias
-
-- Java
-- Swing
-- Git
-- GitHub
-- Programação Orientada a Objetos
-
----
-
-# 📚 Conceitos Aplicados
-
-- Encapsulamento
-- Herança
-- Polimorfismo
-- Abstração
-- Collections
-- Tratamento de Exceções
-- Eventos
-- Estrutura de Dados
-
-
-# 🎯 Objetivos de Aprendizado
-
-Durante o desenvolvimento deste projeto foram praticados:
-
-- Organização de projetos Java
-- Boas práticas de programação
-- Programação Orientada a Objetos
-- Interface gráfica
-- Manipulação de eventos
-- Versionamento com Git
-
----
-
-# 📈 Próximas Melhorias
-
-- [ ] Melhorar interface
-- [ ] Sistema de configurações
-- [ ] Sons personalizados
-- [ ] IA para o jogo
-- [ ] Multiplayer
-- [ ] Salvamento automático
-
----
-
-# 📊 Estatísticas
-
-| Item | Informação |
-|------|------------|
-| Linguagem | Java |
-| IDE | Eclipse |
-| Paradigma | Orientação a Objetos |
-| Interface | Swing |
-| Status | ✔ Em desenvolvimento |
-
----
-
-# 👨‍💻 Autor
-
-## João Gabriel Boueri Santos
-
-Desenvolvedor Back-end Java em formação.
-
-- 💼 [LinkedIn]: www.linkedin.com/in/joao-gabriel-boueri
-- 💻 [GitHub] (https://github.com/Boueri)
-- 🌐 🔗 **[Visitar meu Portfólio Web](https://app.notion.com/p/Portf-lio-Jo-o-Gabriel-Boueri-Santos-3857af439f3e803fb9d8e8455c8e55f3)**
-
----
-
-⭐ Se este projeto foi interessante, deixe uma estrela no repositório!
-
+<p align="center">
+Feito com ❤️ e ☕ por <strong>João Gabriel Boueri Santos</strong>
 </p>
