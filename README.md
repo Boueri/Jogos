@@ -1,4 +1,7 @@
-# 🎮 Meus Jogos em Java (Concluídos)
+<img width="1536" height="1024" alt="7eed88e6-89a4-428d-9196-73be1f77231e" src="https://github.com/user-attachments/assets/e90633a1-18cb-4f46-ad4d-1db027ae71aa" />
+
+
+# 🎮 Meus Jogos em Java 
 
 Bem-vindo(a) ao meu repositório de jogos! Aqui está uma coleção de clássicos e desafios de tabuleiro que desenvolvi **do zero e finalizei por completo** utilizando a linguagem Java. 
 
